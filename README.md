@@ -1,2 +1,2 @@
-# NetNinja-Ninja_Belt
+# Ninja_Belt
 Created with CodeSandbox
